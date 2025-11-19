@@ -54,3 +54,19 @@ Ce TP démontre l'impact d'un algorithme en O(n²) sur de grandes données
 et l'importance des structures de données adaptées pour optimiser la
 complexité.
 
+## Cloner le dépôt GitHub
+
+Pour cloner ce dépôt sur votre machine, exécutez la commande suivante dans votre terminal :
+
+```bash
+git clone https://github.com/GuitounYoucef/Advanced_Algorithms_and_Complexity.git
+```
+
+Ensuite, entrez dans le dossier cloné :
+
+```bash
+cd Advanced_Algorithms_and_Complexity
+```
+
+Puis lancez votre code comme indiqué dans les instructions précédentes.
+
