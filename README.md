@@ -2,8 +2,8 @@
 
 ## 🎓 Objectif du TP
 
-Ce travail pratique introduit les étudiants à : - La lecture et
-l'écriture de fichiers en Python\
+Ce travail pratique introduit les étudiants à : 
+- La lecture et l'écriture de fichiers en Python\
 - La manipulation des listes et des dictionnaires\
 - Le comptage des occurrences dans une liste\
 - La mesure du temps d'exécution\
